@@ -1,6 +1,6 @@
 # Database_Project21
 ## Fall 2021 Databases Group Project
-### Team Name
+1. Team Name
 ### Team Members
 ### Outline For Project:
 ### Project Introduction
