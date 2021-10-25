@@ -2,7 +2,7 @@
 ## Fall 2021 Databases Group Project
 ### Team Name
 ABR
-### Team Members
+#### Team Members
 Austin Biggs  
 Bailey Birkhead  
 Ross Fowler
