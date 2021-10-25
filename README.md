@@ -7,6 +7,7 @@ Austin Biggs
 Bailey Birkhead  
 Ross Fowler
 ### Project Introduction
+This project's purpose is to take an existing database and modify it for local and personalized use. The aim is to add onto the functionality of the available data system, and to restructure accordingly. For example, a Ratings system will be added to the database, and local restaurants will be presented to the user
 ### Business Rules
 1)	Persons (campus faculty, staff, students) have accounts in the system with personid (PK), name, email, cell, etc.  For faculty we also keep title, highest degree, and degreecollege.  For staff we keep Position and AdminYorN.  For students we keep GradYear and major plus type (undergraduate, graduate).  Only faculty, staff and students are included.
 2)	We have Locations which are spots on campus where food can be delivered.  Some examples are dorms, the student center, and approved classroom buidings.  LocationID, LocationName, LocationAddress and (optional) Latitude and Longitude are maintained in the database. Additionally a food delivery drop-off point is included (designated place for meeting or delivering food in the location – this can be a brief description).
