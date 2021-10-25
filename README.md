@@ -2,6 +2,9 @@
 ## Fall 2021 Databases Group Project
 ### Team Name
 ### Team Members
+Austin Biggs
+Bailey Birkhead
+Ross Fowler
 ### Outline For Project:
 ### Project Introduction
 ### Business Rules
