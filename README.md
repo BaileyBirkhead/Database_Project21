@@ -21,6 +21,8 @@ b.	All delivery personnel are students.
 
 ### EERD
 ### Data Dictionary
+![image](https://user-images.githubusercontent.com/93000813/140790234-3457dbdb-987b-48d1-afad-5f8b2bdbd364.png)
+
 ### SQL Code for Queries, Stored Procedures, Views (screen shots)
 ### Future Work
 
