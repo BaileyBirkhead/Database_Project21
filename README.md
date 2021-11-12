@@ -20,6 +20,8 @@ b.	All delivery personnel are students.
 7)	The database will serve as an important data collection source providing valuable information about nutrition and eating habits of campus community members.    
 
 ### EERD
+![image](https://user-images.githubusercontent.com/93000813/141512030-4473b187-4a25-42c1-951f-63a51d06c3e0.png)
+
 ### Data Dictionary
 ![image](https://user-images.githubusercontent.com/93000813/140790234-3457dbdb-987b-48d1-afad-5f8b2bdbd364.png)
 
