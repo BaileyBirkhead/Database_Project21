@@ -24,12 +24,19 @@ b.	All delivery personnel are students.
 
 ### Data Dictionary
 ![image](https://user-images.githubusercontent.com/93000813/140790234-3457dbdb-987b-48d1-afad-5f8b2bdbd364.png)
-![image](https://user-images.githubusercontent.com/93000813/143915834-670d7693-60ad-47bb-b198-a18f64a9d172.png)
-![image](https://user-images.githubusercontent.com/93000813/143915888-62634e90-3955-4c01-8d54-067e45ca8062.png)
-![image](https://user-images.githubusercontent.com/93000813/143915937-1d46a18b-999e-4276-b6d3-cef2831eeefa.png)
-![image](https://user-images.githubusercontent.com/93000813/143916047-6515216c-1109-4493-872c-f5e90abe5c34.png)
+
 
 
 ### SQL Code for Queries, Stored Procedures, Views (screen shots)
-### Future Work
+#### Max, Min, AVG Restaurant Rating
+![image](https://user-images.githubusercontent.com/93000813/143915834-670d7693-60ad-47bb-b198-a18f64a9d172.png)
+#### Max, Min, AVG Driver Rating
+![image](https://user-images.githubusercontent.com/93000813/143915888-62634e90-3955-4c01-8d54-067e45ca8062.png)
+#### Count of Driver Deliveries (Week)
+![image](https://user-images.githubusercontent.com/93000813/143915937-1d46a18b-999e-4276-b6d3-cef2831eeefa.png)
+#### Count of Customer Deliveries (Week)
+![image](https://user-images.githubusercontent.com/93000813/143916047-6515216c-1109-4493-872c-f5e90abe5c34.png)
+#### Overview
+![image](https://user-images.githubusercontent.com/93000813/143916458-06cfb924-85c8-42c6-83a4-158a420040cd.png)
+
 
