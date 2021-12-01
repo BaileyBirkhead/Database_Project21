@@ -34,4 +34,7 @@ b.	All delivery personnel are students.
 #### Overview
 ![image](https://user-images.githubusercontent.com/93000813/143916458-06cfb924-85c8-42c6-83a4-158a420040cd.png)
 
+### Project Summary
+See Files: Video Summary
+
 
