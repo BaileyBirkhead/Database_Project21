@@ -19,13 +19,8 @@ b.	All delivery personnel are students.
 6)	There is a rating system in this database. This gives users the ability to rate restaurants and drivers. The rating system will show supertypes and subtypes – an overall rating for the supertype, and subtypes restaurant and driver for ratings for these categories.    
 7)	The database will serve as an important data collection source providing valuable information about nutrition and eating habits of campus community members.    
 
-### EERD
+### EERD + Data Dictionary
 ![image](https://user-images.githubusercontent.com/93000813/141512030-4473b187-4a25-42c1-951f-63a51d06c3e0.png)
-
-### Data Dictionary
-![image](https://user-images.githubusercontent.com/93000813/140790234-3457dbdb-987b-48d1-afad-5f8b2bdbd364.png)
-
-
 
 ### SQL Code for Queries, Stored Procedures, Views (screen shots)
 #### Max, Min, AVG Restaurant Rating
